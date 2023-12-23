@@ -1,0 +1,241 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHCT16245
+F https://www.ti.com/lit/ds/symlink/sn74ahct16245.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1633577484378&ref_url=https%253A%252F%252Fwww.mouser.com%252F
+$ENDCMP
+#
+$CMP 8039
+D MCS-48 8-bit Microcontroller, No (EP)ROM, 128B RAM, DIP-40
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
+$CMP 8040
+D MCS-48 8-bit Microcontroller, No (EP)ROM, 256B RAM, DIP-40
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
+$CMP 8048
+D MCS-48 8-bit Microcontroller, 1KB Mask ROM, 64B RAM, DIP-40
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
+$CMP 8049
+D MCS-48 8-bit Microcontroller, 2KB Mask ROM, 128B RAM, DIP-40
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
+$CMP 8050
+D MCS-48 8-bit Microcontroller, 4KB Mask ROM, 256B RAM, DIP-40
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
+$CMP ATF1504AS-7AX100
+D CPLD - Complex Programmable Logic Devices
+K CPLD
+F https://www.mouser.com/datasheet/2/268/atmel_0950_cpld_atf1504as_l__datasheet-1100834.pdf
+$ENDCMP
+#
+$CMP ATF1508AS-7AX100
+D CPLD - Complex Programmable Logic Devices
+K CPLD
+F https://www.mouser.com/datasheet/2/268/atmel_0950_cpld_atf1504as_l__datasheet-1100834.pdf
+$ENDCMP
+#
+$CMP ATF150X-PLCC84
+D CPLD - Complex Programmable Logic Devices
+K CPLD
+F https://www.mouser.com/datasheet/2/268/atmel_0950_cpld_atf1504as_l__datasheet-1100834.pdf
+$ENDCMP
+#
+$CMP Adafruit_FTDIFriend
+D USB to Serial Interface, SSOP-28
+K FTDI USB Serial
+F https://www.adafruit.com/product/284
+$ENDCMP
+#
+$CMP CAY17-102JALF
+D 8 resistor network, star topology, bussed resistors, small US symbol
+K R network star-topology
+F https://www.mouser.com/datasheet/2/54/cay17-777365.pdf
+$ENDCMP
+#
+$CMP CY62128ELL_(1Mbit_128Kx8_SRAM)
+D 64M – (4M x 16 bit) Synchronous DRAM (SDRAM), TSOP II 54pin
+K SRAM
+F https://www.mouser.com/datasheet/2/100/38-05485_CY62128E_MoBL_sup_sup_1-Mbit_128_K_8_Stat-845099.pdf
+$ENDCMP
+#
+$CMP CY62158H_(8Mbit_1Mx8_SRAM)
+D 64M – (4M x 16 bit) Synchronous DRAM (SDRAM), TSOP II 54pin
+K SRAM
+F https://www.alliancememory.com/wp-content/uploads/pdf/dram/64M-AS4C4M16SA-CI_v3.0_March%202015.pdf
+$ENDCMP
+#
+$CMP LM22678TJ-5
+D 5A Step-Down Switching Voltage Regulater, 4.5-42V Input, 5V Output, 500kHz Switching Frequency, TO-263
+K DC/DC Buck Converter 5A
+F https://www.ti.com/lit/ds/symlink/lm22678.pdf
+$ENDCMP
+#
+$CMP LM2678SX
+D 5A Step-Down Switching Voltage Regulater, 4.5-42V Input, Adjustable Output, 500kHz Switching Frequency, TO-263
+K DC/DC Buck Converter 5A
+F https://www.ti.com/lit/ds/symlink/lm22678.pdf
+$ENDCMP
+#
+$CMP LSF0102
+D 2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8
+K Level-Shifter CMOS-TTL-Translation
+F http://www.ti.com/lit/gpn/txs0102
+$ENDCMP
+#
+$CMP LSF0108
+D 8-bit bidirectional voltage level translator with auto-direction sensing USON package
+K bidirectional voltage level translator
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
+$CMP MercuryII-FPGA
+D CMOS Dual Channel UART
+K UART serial
+F http://padley.rice.edu/cms/OH_GE21/UG475_7Series_Pkg_Pinout.pdf
+$ENDCMP
+#
+$CMP NCP161
+D 3.3v Ultra Low Noise LDO
+K linear low dropout Regulator
+F https://www.mouser.com/datasheet/2/308/1/NCP161_D-2316989.pdf
+$ENDCMP
+#
+$CMP PTN3363
+D MCS-48 8-bit Microcontroller, No (EP)ROM, 64B RAM, DIP-40
+K MCS-48 uC Microcontroller
+F https://www.mouser.com/datasheet/2/302/PTN3363-1127557.pdf
+$ENDCMP
+#
+$CMP SC28L92A1A
+D CMOS Dual Channel UART
+K UART serial
+F https://www.elektronik.ropla.eu/pdf/stock/exa/xr68c681.pdf
+$ENDCMP
+#
+$CMP SC28L92A1A_(QFP)
+D CMOS Dual Channel UART
+K UART serial
+F https://www.mouser.com/datasheet/2/302/SC28L92-1127945.pdf
+$ENDCMP
+#
+$CMP SN74CB3T16210
+D Low-voltage 20-bit FET Bus-exchange switch 5V Tolerant
+K bus
+F https://www.ti.com/lit/ds/symlink/sn74cb3t16210.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1636846496461&ref_url=https%253A%252F%252Fwww.mouser.com%252F
+$ENDCMP
+#
+$CMP SparkFun_BluetoothMate
+D USB to Serial Interface, SSOP-28
+K FTDI USB Serial
+F https://www.sparkfun.com/products/12580
+$ENDCMP
+#
+$CMP SparkFun_FT232RL_Breakout
+D USB to Serial Interface, SSOP-28
+K FTDI USB Serial
+F https://www.sparkfun.com/products/12731
+$ENDCMP
+#
+$CMP SparkFun_FTDIBasic
+D USB to Serial Interface, SSOP-28
+K FTDI USB Serial
+F https://www.sparkfun.com/products/9716
+$ENDCMP
+#
+$CMP TL16C550CFN
+D TLC16C550C ACE
+K UART serial
+F https://www.ti.com/lit/ds/symlink/tl16c550c.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1638335690723&ref_url=https%253A%252F%252Fwww.mouser.com%252F
+$ENDCMP
+#
+$CMP TPS76318
+D Low power 150mA LDO 1.8V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76325
+D Low power 150mA LDO 2.5V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76327
+D Low power 150mA LDO 2.7V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76329
+D Low power 150mA LDO 2.8V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76330
+D Low power 150mA LDO 3.0V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76333
+D Low power 150mA LDO 3.3V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76338
+D Low power 150mA LDO 3.8V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76350
+D Low power 150mA LDO 5.0V fixed output voltage, SOT-23-5
+K linear low dropout Regulator fixed
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP XC7A15T-FTG256
+D Artix 7 T 15 XC7A15T-FTG256
+K FPGA
+$ENDCMP
+#
+$CMP XCR3064-VQ100
+D Xilinx CoolRunner 64-Macrocell CPLD, 3.3V, VQFP-100, Obsolete
+K CPLD
+F https://www.xilinx.com/support/documentation/data_sheets/ds017.pdf
+$ENDCMP
+#
+$CMP XCR3064-VQ100_copy
+D Xilinx CoolRunner 64-Macrocell CPLD, 3.3V, VQFP-100, Obsolete
+K CPLD
+F https://www.xilinx.com/support/documentation/data_sheets/ds017.pdf
+$ENDCMP
+#
+$CMP XCR3064-VQ100_copy1
+D Xilinx CoolRunner 64-Macrocell CPLD, 3.3V, VQFP-100, Obsolete
+K CPLD
+F https://www.xilinx.com/support/documentation/data_sheets/ds017.pdf
+$ENDCMP
+#
+$CMP YM2151
+D Voltage Controlled Oscillator (VCO), DIP-16/SOIC-16
+K VCO CEM340 ALFA
+F http://www.alfarzpp.lv/eng/sc/AS3340.pdf
+$ENDCMP
+#
+$CMP YM3012
+D 1024-STAGE LOW NOISE BBD (bucket brigade device), delay time 5.12ms to 51.2ms, S/N 80dB, clock frequency range 10KHz to 100KHz
+K Matsushita Panasonic BBD
+F http://www.experimentalistsanonymous.com/diy/Datasheets/MN3007.pdf
+$ENDCMP
+#
+#End Doc Library
